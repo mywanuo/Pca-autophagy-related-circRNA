@@ -1,8 +1,8 @@
-#Autophagy-related circRNA evaluation reveals hsa_circ_0001747 as a potential favorable prognostic factor for biochemical recurrence in patients with prostate cancer
+# Autophagy-related circRNA evaluation reveals hsa_circ_0001747 as a potential favorable prognostic factor for biochemical recurrence in patients with prostate cancer
 
 Paper under review
 
-###Correlation  calculation 
+### Correlation  calculation 
 [The result](https://github.com/mywanuo/Pca-autophagy-related-circRNA/blob/main/Correlation%20result%20of%20autophagy-related%20circRNA%20in%20prostate%20cancer.txt)
 
 R code
